@@ -1,3 +1,5 @@
+#Fully intended for those who run safing's portmaster network action on 'block by default'.
+
 .gmail.com
 .office365.com
 .googleapis.com
